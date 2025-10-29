@@ -23,15 +23,6 @@
 //Entrega em um repositório no github, com os arquivos e readme organizados.
 
 
-/*
-01001000
-rua = logradouro = Praça da Sé
-bairro = bairro = Sé
-cidade = localidade = São Paulo
-estado = estado = São Paulo
-/^[0-9]{8}$/
-*/
-
 function pesquisaCEP (){
 
 let cep = document.getElementById("cep").value;
